@@ -1,0 +1,12 @@
+# Gradle / Android
+.gradle/
+build/
+*/build/
+local.properties
+*.iml
+.idea/
+# Keystores (never commit release keys)
+*.jks
+*.keystore
+# OS
+.DS_Store

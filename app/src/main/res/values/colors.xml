@@ -1,0 +1,16 @@
+<resources>
+    <color name="night_top">#141E3C</color>
+    <color name="night_bottom">#0A0F24</color>
+    <color name="ground">#143C14</color>
+    <color name="ground_line">#286828</color>
+    <color name="ghost">#DCDCFF</color>
+    <color name="ghost_glow">#50DCDCFF</color>
+    <color name="gold">#FFD700</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="spooky_blue">#6496FF</color>
+    <color name="spooky_green">#32C832</color>
+    <color name="spooky_red">#FF3C3C</color>
+    <color name="spooky_purple">#A050DC</color>
+    <color name="ic_launcher_background">#0A0F24</color>
+</resources>
